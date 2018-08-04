@@ -4,9 +4,10 @@
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
-/.idea/caches
+*.ser
 .DS_Store
 /build
 /captures
 .externalNativeBuild
 src/debug/res/values/google_maps_api.xml
+src/release/res/values/google_maps_api.xml
